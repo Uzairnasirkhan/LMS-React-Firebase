@@ -36,7 +36,7 @@ const Sidebar = () => {
       {/* Logo Section */}
       <div className="flex items-center justify-center h-20 border-b border-blue-500 mx-2">
         <h1 className="text-lg font-bold tracking-wide">
-          <div className="flex justify-center items-center mb-2">
+          <div className="flex justify-center items-center mb-2 mt-2">
                       <h1 className="text-2xl text-white flex items-center gap-2"><GiGraduateCap className="text-3xl"/>EduTrack</h1>
                     </div>
         </h1>
